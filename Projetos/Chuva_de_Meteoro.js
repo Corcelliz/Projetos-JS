@@ -1,0 +1,1 @@
+import chuva_meteoros from "./ArrayChuvas"
