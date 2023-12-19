@@ -1,0 +1,10 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/projeto",
+  "dependencies": {
+    "module": "^1.2.5"
+  }
+}
