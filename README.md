@@ -1,1 +1,1 @@
-Projetos em JavaScript que irei desenvolver ao longo dos meus estudos na linguagem.
+Alguns Projetos que venho estudando e desenvolvendo ao longo dos meus estudos de JavaScript.
