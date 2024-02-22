@@ -1,3 +1,5 @@
+Neste projeto que desenvolvi com o suporte da plataforma DevMedia, ele lista uma chuvas de meteoros fictícia. 
+
 Linguagem utilizada neste projeto:
 
 <div style="display: block-inline;">
