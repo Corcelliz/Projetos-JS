@@ -5,6 +5,7 @@
   "type": "module",
   "main": "src/projeto",
   "dependencies": {
-    "module": "^1.2.5"
+    "module": "^1.2.5",
+    "readline-sync": "^1.4.10"
   }
 }
